@@ -62,3 +62,39 @@ D:\03Learning\33_DotNetCoreVue\DotNetCoreAPI\backend\DotNetCoreVue_2\obj\Debug\n
 D:\03Learning\33_DotNetCoreVue\DotNetCoreAPI\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.RazorTargetAssemblyInfo.cache
 D:\03Learning\33_DotNetCoreVue\DotNetCoreAPI\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.csproj.CopyComplete
 D:\03Learning\33_DotNetCoreVue\DotNetCoreAPI\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.genruntimeconfig.cache
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\DotNetCoreVue_2.StaticWebAssets.xml
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\DotNetCoreVue_2.exe
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\DotNetCoreVue_2.deps.json
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\DotNetCoreVue_2.runtimeconfig.json
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\DotNetCoreVue_2.runtimeconfig.dev.json
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\DotNetCoreVue_2.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\DotNetCoreVue_2.pdb
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.csproj.AssemblyReference.cache
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.AssemblyInfoInputs.cache
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.AssemblyInfo.cs
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.csproj.CoreCompileInputs.cache
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.MvcApplicationPartsAssemblyInfo.cache
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreVue_2.StaticWebAssets.Manifest.cache
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreVue_2.StaticWebAssets.Pack.cache
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DotNetCoreVue_2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DotNetCoreVue_2.props
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DotNetCoreVue_2.props
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DotNetCoreVue_2.props
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.RazorTargetAssemblyInfo.cache
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.csproj.CopyComplete
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.dll
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.pdb
+D:\4. 課程\23. .NET Core Web API Vue\backend\DotNetCoreVue_2\obj\Debug\netcoreapp3.1\DotNetCoreVue_2.genruntimeconfig.cache
