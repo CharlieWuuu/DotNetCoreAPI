@@ -25,7 +25,7 @@
                     </th>
                     <th>
                         <div class="d-flex flex-row">
-                            <input type="text" class="form-control m-2" v-model="DepartmentIdFilter" v-on:keyup="FilterFn()" placeholder="Filter" />
+                            <input type="text" class="form-control m-2" v-model="DepartmentNameFilter" v-on:keyup="FilterFn()" placeholder="Filter" />
 
                             <button type="button" class="btn btn-light" @click="sortResult('DepartmentName', true)">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-down-circle-fill" viewBox="0 0 16 16">
@@ -151,12 +151,12 @@ export default {
         };
 
         const FilterFn = () => {
-            DepartmentNameFilter;
-            var DepartmentIdFilter = DepartmentIdFilter.value;
-            var DepartmentNameFilter = DepartmentNameFilter.value;
+            // DepartmentNameFilter;
+            // var DepartmentIdFilter = DepartmentIdFilter.value;
+            // var DepartmentNameFilter = DepartmentNameFilter.value;
 
             departments.value = DepartmentWithoutFilter.value.filter(function (el) {
-                return el.DepartmentId.toString().toLowerCase().includes(DepartmentIdFilter.toString().trim().toLowerCase()) && el.DepartmentName.toString().toLowerCase().includes(DepartmentNameFilter.toString().trim().toLowerCase());
+                return el.DepartmentId.toString().toLowerCase().includes(DepartmentIdFilter.value.toString().trim().toLowerCase()) && el.DepartmentName.toString().toLowerCase().includes(DepartmentNameFilter.value.toString().trim().toLowerCase());
             });
         };
 
