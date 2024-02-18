@@ -15,8 +15,8 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<!-- lang="scss" 代表用 SCSS 寫成；「scoped」屬性可讓這個 CSS 只作用於這個元件 -->
+<style lang="scss" scoped>
 h3 {
   margin: 40px 0 0;
 }
@@ -32,6 +32,13 @@ a {
   color: #42b983;
     margin: 0 10px;
 }
+
+#app{
+  h3{
+    margin: 20px 0 0;
+  }
+}
+
 .btn{
   border:1px solid #42b983;
 }
